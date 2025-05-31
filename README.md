@@ -5,5 +5,6 @@
 * Download test datasets:[TestDatastes](https://pan.baidu.com/s/1sEcR-GV9qJDuVHpA1ZSz_g?pwd=ay2d), 提取码：ay2d
 
 # Train and Test
-* python 
+* python train.py
+* python test.py
 
